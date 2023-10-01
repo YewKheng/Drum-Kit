@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  background-color: rgb(37, 37, 37);
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 rgb(123, 0, 206);
+
+}
+
+.set {
+  margin-top: 10% ;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 6px 15px 0 #de00fc;
+  opacity: 0.8;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #3b006b;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 600;
+  color: rgb(123, 0, 206);
+  text-shadow: 3px 0 rgb(162, 0, 255);
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  padding: 0;
+  background-color: rgb(0, 0, 0);
+}
+
+.name {
+  outline:none;
+  border: 3px solid #3b006b;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 400;
+  color: rgb(123, 0, 206);
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 60px;
+  text-align: center;
+  margin: 7px;
+  padding: 0px;
+  background-color: black;
+}
