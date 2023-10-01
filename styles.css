@@ -15,18 +15,9 @@ h1 {
   margin-top: 10% ;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
 .pressed {
   box-shadow: 0 6px 15px 0 #de00fc;
   opacity: 0.8;
-}
-
-.red {
-  color: red;
 }
 
 .drum {
